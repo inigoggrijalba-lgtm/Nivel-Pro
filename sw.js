@@ -1,8 +1,9 @@
-const CACHE_NAME = 'nivel-pro-v1';
+const CACHE_NAME = 'nivel-pro-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
+  './icon.svg',
   'https://cdn.tailwindcss.com',
   'https://aistudiocdn.com/react@^19.2.1/',
   'https://aistudiocdn.com/react@^19.2.1',
