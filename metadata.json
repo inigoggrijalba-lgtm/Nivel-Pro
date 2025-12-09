@@ -1,0 +1,5 @@
+{
+  "name": "Nivel Pro",
+  "description": "Una herramienta de nivelación precisa que utiliza los sensores de su dispositivo para medir la inclinación en los ejes X e Y.",
+  "requestFramePermissions": []
+}
